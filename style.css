@@ -1,0 +1,72 @@
+body{
+padding-top: 50px;
+}
+header{
+	background-color: black;
+}
+
+.mainContent{
+	padding-left: 240px;
+}
+header h2{
+	float: top;
+	font-style: italic;
+ 	font-family: Georgia; 
+ 	background-color: skyblue;
+ 	color: white;
+ 	font-size: 30px;
+ 	margin-top: 0px;
+}
+.sign_up{
+	margin-left: 2%;
+}
+.log_in{
+	margin-left: 2%;
+}
+.mainContent{
+	margin-left: 2%;
+}
+table{
+	padding-top: 10px;
+}
+td{
+	border: 1px solid skyblue;
+	border-radius: 5px;
+	color: gray;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+}
+#addlist{
+	margin-top: 10px;
+}
+.profileup{	
+	background-color: #BEE1ED;
+	display: block;
+	height: 202px;
+	border: 2px solid #3DB4DB;
+	border-radius: 5px;
+}
+#posts{
+	border: 2px solid skyblue;
+	border-radius: 5px;
+	color: #6D777A;
+	width: 640px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-indent: 10px;
+}
+#post_input{
+	float: left;
+	width: 635px;
+	margin-left: 10px;
+}
+
+#userscontent{
+	padding-left: 20px;
+}
